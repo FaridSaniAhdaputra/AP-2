@@ -1,0 +1,10 @@
+// Menggunakan #define (memanipulasi program atau membuat definisi baru terhadap program sesuai keinginan kita)
+#define L <<                    // membuat definisi baru dari '<<' menjadi 'L'
+#define u using namespace std;  // membuat definisi baru dari 'using namespace std' menjadi 'u'
+#define o cout                  //membuat definisi baru dari 'cout' menjadi 'o'
+#define p double                //membuat definisi baru dari 'double ' menjadi 'p'
+#define i int                   //membuat definisi baru dari 'int ' menjadi 'i'
+#define c main                  //membuat definisi baru dari 'main' menjadi 'c'
+#define r return                //membuat definisi baru dari 'return' menjadi 'r'
+#define j jumlah                //membuat definisi baru dari 'jumlah' menjadi 'j'
+#define k kurang                //membuat definisi baru dari 'kurang' menjadi 'k'
